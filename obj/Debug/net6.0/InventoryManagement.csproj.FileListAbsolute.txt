@@ -1,0 +1,17 @@
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.AssemblyReference.cache
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfoInputs.cache
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfo.cs
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.exe
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.deps.json
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.runtimeconfig.json
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.dll
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.pdb
+C:\c#practicle\InventoryManagement\InventoryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CopyComplete
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.dll
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\refint\InventoryManagement.dll
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.pdb
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.genruntimeconfig.cache
+C:\c#practicle\InventoryManagement\InventoryManagement\obj\Debug\net6.0\ref\InventoryManagement.dll
